@@ -1,7 +1,7 @@
 # Settings for Pulls:
 pulls:
   # Number of days of inactivity before an Issue or Pull Request becomes stale
-  daysUntilStale: 15
+  daysUntilStale: 1
 
   # Number of days of inactivity before an Issue or Pull Request with the stale label is closed.
   daysUntilClose: 10
